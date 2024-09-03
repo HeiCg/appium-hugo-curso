@@ -60,5 +60,5 @@ studant = {
 
 # 2. In each exercise, consider the case where the student took the
 # recovery test in a given semester. This means that the grade for a
-# given semester can be a list of up to 3 years, where the final grade should be
+# given semester can be a list of up to 3 grades, where the final grade should be
 # considered as the highest among them.
